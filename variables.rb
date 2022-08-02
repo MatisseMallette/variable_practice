@@ -12,3 +12,7 @@ pi = 3.14
 
 bool = true
 otherbool = false
+
+variable = "hello, world"
+newmessage = "goodbye, world"
+variable = newmessage
